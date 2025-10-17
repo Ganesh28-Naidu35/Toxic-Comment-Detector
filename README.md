@@ -5,7 +5,5 @@ A web-based application that detects toxic or harmful comments using AI/ML model
 ## 🚀 Getting Started
 
 ```bash
-npm install
-npm audit fix
-npm run dev
+use the files in order of model_load-Toxic_match-Tokenize-Detoxify files
 
