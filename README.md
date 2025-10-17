@@ -1,6 +1,6 @@
 # 🧠 Toxic Comment Detector
 
-A web-based application that detects toxic or harmful comments using AI/ML models and a modern UI.
+A web-based application that detects toxic or harmful comments using AI/ML models.
 
 ## 🚀 Getting Started
 
